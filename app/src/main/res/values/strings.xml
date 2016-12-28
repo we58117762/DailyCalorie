@@ -1,8 +1,14 @@
 <resources>
     <string name="app_name">DailyCaorie</string>
 
+    <!--drawer_menu_string-->
+    <string name="drawer_menu_calculator">卡路里计算器</string>
+
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">This is calculator fragment</string>
 </resources>
